@@ -1,0 +1,498 @@
+{
+  "Sistema Digestório": [
+	{
+	  "pergunta": "Durante o almoço, Lucas engoliu um pedaço de carne quase sem mastigar. Que problema isso pode causar no processo de digestão dele?",
+	  "opcoes": [
+		"O estômago terá mais dificuldade para quebrar o alimento, demorando mais para digeri-lo.",
+		"Os nutrientes da carne serão absorvidos diretamente pelas paredes da boca.",
+        "O esôfago vai digerir a carne antes que ela consiga chegar ao estômago."
+	  ],
+	  "correta": 0,
+	  "explicacao": "A mastigação reduz o tamanho dos alimentos e aumenta a área de contato com os sucos digestórios, facilitando a ação do estômago."
+	},
+	{
+	  "pergunta": "Os nutrientes dos alimentos que comemos precisam chegar a todas as partes do corpo. Onde ocorre a absorção da maior parte desses nutrientes para o sangue?",
+	  "opcoes": [
+		"No estômago, logo após a comida ser misturada com o suco gástrico.",
+		"No intestino delgado, através de suas paredes finas e irrigadas por vasos sanguíneos.",
+        "No intestino grosso, onde os alimentos são transformados em fezes."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O intestino delgado é o principal órgão responsável por absorver os nutrientes digeridos e transferi-los para a corrente sanguínea."
+	},
+	{
+	  "pergunta": "A saliva não serve apenas para molhar a boca. Qual é o papel real dela no processo inicial da digestão de alimentos como o pão ou a batata?",
+	  "opcoes": [
+		"Ela serve apenas para proteger os dentes contra os ácidos dos alimentos.",
+		"Ela transporta o alimento diretamente para o intestino, pulando o estômago.",
+        "Ela contém substâncias que começam a quebrar o amido dos alimentos ainda na boca."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A saliva possui enzimas (como a ptialina) que iniciam a digestão química dos carboidratos (amido) na boca."
+	},
+	{
+	  "pergunta": "O esôfago é um tubo que empurra o bolo alimentar até o estômago. Como o alimento consegue descer por ele mesmo se estivéssemos de ponta-cabeça?",
+	  "opcoes": [
+		"O esôfago realiza movimentos involuntários de contração chamados movimentos peristálticos.",
+		"O alimento desce apenas pela força da gravidade quando o corpo está ereto.",
+        "O estômago funciona como um aspirador, sugando o alimento para baixo."
+	  ],
+	  "correta": 0,
+	  "explicacao": "Os movimentos peristálticos são contrações musculares involuntárias do tubo digestório que empurram o alimento adiante."
+	},
+	{
+	  "pergunta": "Uma pessoa que removeu cirurgicamente uma parte do intestino grosso provavelmente terá problemas com qual das seguintes funções?",
+	  "opcoes": [
+		"A quebra inicial das proteínas e das gorduras pesadas.",
+		"A absorção de água e a formação adequada das fezes.",
+        "A produção de saliva e a trituração mecânica dos alimentos."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O intestino grosso é o principal responsável pela absorção de água e sais minerais, compactando os resíduos para formar as fezes."
+	},
+	{
+	  "pergunta": "Médicos recomendam evitar deitar-se logo após comer muito. Qual a explicação anatômica para evitar esse hábito?",
+	  "opcoes": [
+		"Os nutrientes se acumulam na cabeça, causando tonturas severas.",
+		"O estômago para de funcionar por completo quando o corpo fica na horizontal.",
+        "O ácido do estômago pode subir para o esôfago, causando azia e mal-estar."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A posição horizontal facilita o refluxo do suco gástrico ácido para o esôfago, que não possui revestimento protetor contra essa acidez."
+	}
+  ],
+  "Sistema Circulatório": [
+	{
+	  "pergunta": "O sangue circula pelo corpo dentro de diferentes vasos. Qual é a principal diferença funcional entre as artérias e as veias?",
+	  "opcoes": [
+		"As artérias carregam apenas sangue sem oxigênio; as veias carregam o sangue com nutrientes.",
+		"As artérias transportam o sangue que sai do coração; as veias trazem o sangue de volta ao coração.",
+        "As artérias correm apenas pelos braços; as veias correm exclusivamente pelas pernas."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Artérias são vasos que saem do coração levando sangue para o corpo, enquanto as veias garantem o retorno desse sangue ao coração."
+	},
+	{
+	  "pergunta": "Após passar pelos pulmões, o sangue sofre uma alteração importante antes de ser bombeado novamente pelo coração. Que alteração é essa?",
+	  "opcoes": [
+		"Ele perde água e fica mais grosso para circular devagar.",
+		"Ele absorve os nutrientes que foram digeridos na respiração.",
+        "Ele deixa o gás carbônico nos pulmões e se abastece de oxigênio."
+	  ],
+	  "correta": 2,
+	  "explicacao": "Nos pulmões ocorre a hematose, processo em que o sangue libera o gás carbônico e capta o oxigênio inspirado."
+	},
+	{
+	  "pergunta": "Se os vasos capilares são os menores e mais finos vasos sanguíneos do corpo, qual é a vantagem dessa espessura reduzida para as células?",
+	  "opcoes": [
+		"Facilitar a troca de oxigênio, nutrientes e resíduos entre o sangue e as células.",
+		"Permitir que o sangue corre em altíssima velocidade por eles.",
+        "Impedir que os glóbulos brancos saiam de dentro do sistema circulatório."
+	  ],
+	  "correta": 0,
+	  "explicacao": "As paredes extremamente finas dos capilares permitem que os nutrientes e gases atravessem o vaso e cheguem diretamente às células."
+	},
+	{
+	  "pergunta": "Por que o ventrículo esquerdo (uma das partes do coração) possui paredes musculares muito mais grossas do que os átrios?",
+	  "opcoes": [
+		"Porque ele precisa aguentar o peso do pulmão que fica apoiado sobre ele.",
+		"Porque ele precisa de força para bombear o sangue para o corpo inteiro, e não apenas para a câmara vizinha.",
+        "Porque ele armazena o sangue que não será usado pelo corpo."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O ventrículo esquerdo impulsiona o sangue oxigenado para a artéria aorta, distribuindo-o por todo o organismo, exigindo maior força muscular."
+	},
+	{
+	  "pergunta": "As plaquetas são componentes do sangue. O que aconteceria se uma pessoa sofresse um corte e tivesse uma quantidade muito baixa de plaquetas?",
+	  "opcoes": [
+		"O corte cicatrizaria mais rápido devido ao aumento do oxigênio.",
+		"O corpo pararia de produzir glóbulos vermelhos imediatamente.",
+        "O sangue teria dificuldade para coagular, prolongando o sangramento."
+	  ],
+	  "correta": 2,
+	  "explicacao": "As plaquetas são fragmentos celulares essenciais para a coagulação do sangue, ajudando a estancar sangramentos em feridas."
+	},
+	{
+	  "pergunta": "Durante uma atividade física intensa, os batimentos cardíacos aumentam. Qual é a relação desse fato com o sistema muscular?",
+	  "opcoes": [
+		"Os músculos em movimento precisam de mais oxigênio e nutrientes, exigindo que o sangue circule mais rápido.",
+		"O coração acelera para avisar os músculos que a atividade deve ser interrompida.",
+        "Os músculos empurram o coração fisicamente, fazendo com que ele bata mais rápido."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O metabolismo muscular aumenta no esforço, demandando mais energia (oxigênio e glicose), fornecidos pelo fluxo sanguíneo acelerado."
+	}
+  ],
+  "Sistema Nervoso": [
+	{
+	  "pergunta": "Qual é o caminho percorrido pela informação quando você decide, de forma consciente, chutar uma bola de futebol?",
+	  "opcoes": [
+		"A ordem nasce no músculo do pé e viaja até a medula espinhal.",
+		"O comando sai do coração e viaja pelas artérias até os ossos do pé.",
+        "O cérebro envia um comando que viaja pelos nervos até os músculos da perna."
+	  ],
+	  "correta": 2,
+	  "explicacao": "Nas ações voluntárias, o cérebro processa a decisão e envia impulsos nervosos através dos nervos condutores até os músculos executores."
+	},
+	{
+	  "pergunta": "O sistema nervoso central é muito protegido por estruturas ósseas. Quais órgãos compõem esse sistema central?",
+	  "opcoes": [
+		"O encéfalo (que inclui o cérebro) e a medula espinhal.",
+		"O cérebro e os nervos que chegam até as mãos.",
+        "O coração, os pulmões e a medula óssea."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O sistema nervoso central é formado pelo encéfalo (protegido pelo crânio) e pela medula espinhal (protegida pela coluna vertebral)."
+	},
+	{
+	  "pergunta": "Quando você encosta acidentalmente em um espinho, puxa a mano antes mesmo de sentir a dor consciente. Como se explica essa reação?",
+	  "opcoes": [
+		"Uma reação do sistema muscular, que decide agir sem nenhuma ajuda de nervos.",
+		"Um ato reflexo, onde a medula espinhal responde rapidamente para proteger o corpo antes de a mensagem chegar ao cérebro.",
+        "O espinho empurra o braço para trás mecanicamente através do osso."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Os atos reflexos são respostas involuntárias e rápidas coordenadas pela medula espinhal para garantir a proteção imediata do organismo."
+	},
+	{
+	  "pergunta": "A poluição sonora ou a falta de sono regular afetam diretamente o funcionamento de qual estrutura celular do sistema nervoso?",
+	  "opcoes": [
+		"As células epiteliais da pele do rosto.",
+		"As fibras musculares que sustentam a caixa craniana.",
+        "Os neurônios, prejudicando a transmissão das mensagens e a memória."
+	  ],
+	  "correta": 2,
+	  "explicacao": "O estresse e a falta de sono afetam os neurônios e suas sinapses, prejudicando funções cognitivas como atenção, foco e armazenamento de memórias."
+	},
+	{
+	  "pergunta": "O bulbo é uma parte do sistema nervoso que controla funções vitais e involuntárias. Qual dessas ações é coordenada por ele?",
+	  "opcoes": [
+		"O controle dos movimentos da respiração e dos batimentos cardíacos.",
+		"A escolha das palavras durante a escrita de um texto.",
+        "O equilíbrio do corpo ao andar de bicicleta."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O tronco encefálico (onde fica o bulbo) regula funções vitais autônomas que ocorrem sem o nosso controle consciente, como respirar e piscar."
+	},
+	{
+	  "pergunta": "Como o sistema nervoso interage com o sistema digestório quando sentimos o cheiro de nossa comida favorita?",
+	  "opcoes": [
+		"O sistema nervoso ignora o cheiro e foca apenas na mastigação.",
+		"O cérebro interpreta o estímulo do cheiro e envia sinais para as glândulas salivares iniciarem a produção de saliva.",
+        "O estômago envia mensagens de dor para o cérebro rejeitar o alimento."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Estímulos sensoriais captados pelo olfato ativam comandos no sistema nervoso que preparam o sistema digestório para receber o alimento (salivação)."
+	}
+  ],
+  "Sistema Esquelético": [
+	{
+	  "pergunta": "Além de sustentar o corpo, o sistema esquelético possui uma função interna vital que ocorre dentro de alguns ossos longos (como o fêmur). Que função é essa?",
+	  "opcoes": [
+		"O armazenamento de oxigênio para os casos de asfixia.",
+		"A produção das células que compõem o sangue na medula óssea.",
+        "A digestão das gorduras que não foram quebradas pelo estômago."
+	  ],
+	  "correta": 1,
+	  "explicacao": "No interior de vários ossos encontra-se a medula óssea vermelha, tecido responsável pela produção de hemácias, leucócitos e plaquetas."
+	},
+	{
+	  "pergunta": "O crânio e a caixa torácica são partes do esqueleto com um formato diferente dos ossos das pernas. Qual é o principal objetivo desse formato?",
+	  "opcoes": [
+		"Facilitar a flexibilidade e o dobramento dessas regiões.",
+		"Tornar o corpo mais leve para facilitar saltos altos.",
+        "Envolver e proteger órgãos vitais sensíveis, como o cérebro, o coração e os pulmões."
+	  ],
+	  "correta": 2,
+	  "explicacao": "Ossos planos ou chatos, como os do crânio e das costelas, têm como função principal a proteção de estruturas internas vitais."
+	},
+	{
+	  "pergunta": "O que aconteceria se as articulações localizadas entre os ossos dos nossos dedos fossem fixas (imóveis) como as articulações do crânio?",
+	  "opcoes": [
+		"Não conseguiríamos dobrar os dedos para segurar um lápis ou fechar a mão.",
+		"Nossos dedos seriam mais fortes para quebrar objetos.",
+        "Os dedos cresceriam muito mais do que o normal."
+	  ],
+	  "correta": 0,
+	  "explicacao": "As articulações móveis possuem cartilagem e sinóvia para permitir os movimentos angulares dos ossos; sem elas, os segmentos seriam rígidos."
+	},
+	{
+	  "pergunta": "A falta de vitamina D e de cálcio na infância afeta diretamente a formação dos ossos. Qual o resultado dessa deficiência?",
+	  "opcoes": [
+		"Os ossos ganham mais articulações do que o necessário.",
+		"Os ossos tornam-se moles e curvados, condição conhecida como raquitismo.",
+        "O esqueleto substitui os ossos por tecido muscular liso."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O cálcio confere rigidez à matriz óssea, e a vitamina D é necessária para sua absorção. A falta deles enfraquece a estrutura esquelética."
+	},
+	{
+	  "pergunta": "A coluna vertebral não é formada por um único osso comprido, mas por várias vértebras empilhadas. Qual a importância dessa estrutura em blocos?",
+	  "opcoes": [
+		"Impedir que a medula espinhal passe por dentro das costas.",
+		"Garantir que a pessoa consiga girar a cabeça em 360 graus.",
+        "Permitir a flexibilidade do tronco e amortecer impactos ao andar ou pular."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A divisão da coluna em vértebras intercaladas por discos cartilaginosos permite movimentos de flexão e rotação, além de absorver choques mecânicos."
+	},
+	{
+	  "pergunta": "Como o sistema esquelético trabalha em conjunto com o sistema muscular para realizar o movimento de caminhar?",
+	  "opcoes": [
+		"Os músculos se contraem e puxam os ossos através dos tendões, gerando o movimento.",
+		"Os ossos empurram os músculos usando a energia armazenada neles.",
+        "Os ossos se movem sozinhos e os músculos servem apenas para cobri-los."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O movimento resulta da ação conjunta: o muscle esquelético atua como a força motriz (contração) e o osso serve como alavanca rígida."
+	}
+  ],
+  "Sistema Respiratório": [
+	{
+	  "pergunta": "O que acontece nas pequenas bolsas chamadas alvéolos pulmonares, localizadas no final dos bronquíolos?",
+	  "opcoes": [
+		"A transformação do oxigênio líquido em ar gasoso.",
+		"A troca gasosa, onde o oxigênio entra no sangue e o gás carbônico sai dele.",
+        "A produção do muco que limpa as vias aéreas."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Nos alvéolos ocorre a troca de gases entre o meio externo e o sistema circulatório (hematose) por meio de difusão capilar."
+	},
+	{
+	  "pergunta": "A cartilagem da epiglote funciona como uma espécie de 'porta' na garganta. Qual é a função vital dela quando engolimos a comida?",
+	  "opcoes": [
+		"Encaminhar o alimento para a laringe para ser triturado.",
+		"Direcionar o ar para o estômago para ajudar na digestão.",
+        "Fechar a entrada da laringe (via respiratória), impedindo o alimento de entrar nos pulmões."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A epiglote fecha a via aérea durante a deglutição, direcionando o bolo alimentar para o esôfago e evitando engasgos ou aspiração de corpos estranhos."
+	},
+	{
+	  "pergunta": "Quando inspiramos o ar, o músculo diafragma se contrai e move-se para baixo. O que esse movimento causa na caixa torácica?",
+	  "opcoes": [
+		"Aumenta o volume do peito, diminuindo a pressão interna e fazendo o ar entrar nos pulmões.",
+		"Diminui o espaço interno, expulsando o ar dos pulmões com força.",
+        "Mantém os pulmões esmagados para filtrar melhor as impurezas."
+	  ],
+	  "correta": 0,
+	  "explicacao": "A contração do diafragma expande verticalmente a cavidade torácica, reduzindo a pressão intrapulmonar e forçando a entrada do ar atmosférico."
+	},
+	{
+	  "pergunta": "Por que o hábito de respirar constantemente pela boca, e não pelo nariz, pode trazer prejuízos à saúde das vias respiratórias?",
+	  "opcoes": [
+		"Porque o ar que entra pela boca vai direto para o estômago e causa gases.",
+		"Because a boca não possui as estruturas de pelos e muco que filtram, aquecem e umedecem o ar.",
+        "Porque a boca diminui a quantidade de gás carbônico necessária para o pulmão."
+	  ],
+	  "correta": 1,
+	  "explicacao": "As cavidades nasais possuem cílios e muco que retêm impurezas e patógenos, além de vasos sanguíneos superficiais que aquecem o ar."
+	},
+	{
+	  "pergunta": "Em locais com muita fumaça ou poluição, nosso corpo reage tossindo ou espirrando. Como o sistema respiratório explica essa reação?",
+	  "opcoes": [
+		"São sinais de que o pulmão parou de funcionar e precisa ser reiniciado.",
+		"São formas voluntárias de absorver mais poluição para limpá-la.",
+        "São mecanismos de defesa para expulsar partículas estranhas que irritam as vias aéreas."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A tosse e o espirro são reflexos coordenados para expelir corpos estranhos, excesso de muco ou irritantes das vias aéreas superiores e inferiores."
+	},
+	{
+	  "pergunta": "Como o sistema respiratório colabora diretamente com as células musculares durante uma corrida de velocidade?",
+	  "opcoes": [
+		"Aumentando a captação de oxigênio, que as células musculares usarão para quebrar os nutrientes e gerar energia.",
+		"Fornecendo o gás carbônico necessário para o músculo relaxar.",
+        "Retirando a água acumulada nos músculos através da expiração."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O oxigênio captado pelos pulmões é transportado às células musculares para realizar a respiração celular, processo que produz a energia (ATP) do movimento."
+	}
+  ],
+  "Sistema Muscular": [
+	{
+	  "pergunta": "O tecido muscular esquelético está ligado aos ossos. Qual é a principal característica desse tipo de músculo quanto ao nosso controle?",
+	  "opcoes": [
+		"Ele funciona de forma involuntária, como quando piscamos dormindo.",
+		"Sua contração é voluntária, dependendo da nossa vontade para se mover.",
+        "Ele se move apenas quando recebe estímulos térmicos externos."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Os músculos esqueléticos são responsáveis pelos movimentos conscientes do corpo, respondendo aos comandos voluntários do sistema nervoso central."
+	},
+	{
+	  "pergunta": "As paredes do estômago e dos intestinos são formadas por tecido muscular liso. Como esse músculo atua no processo de digestão?",
+	  "opcoes": [
+		"Ele permanece totalmente estático para evitar que a comida balance.",
+		"Ele ajuda a triturar os dentes para mastigar melhor.",
+        "Ele se contrai de forma involuntária para misturar e empurrar o alimento ao longo do tubo digestório."
+	  ],
+	  "correta": 2,
+	  "explicacao": "O músculo liso (não estriado) possui contração lenta e involuntária, controlando o diâmetro dos órgãos ocos e realizando o peristaltismo."
+	},
+	{
+	  "pergunta": "Para dobrar o cotovelo, o músculo bíceps se contrai e o tríceps relaxa. Para esticar o braço, ocorre o inverso. O que isso demonstra sobre os músculos?",
+	  "opcoes": [
+		"Que os músculos esqueléticos trabalham em grupos antagonistas (ações opostas).",
+		"Que os músculos sempre trabalham sozinhos sem precisar de pares.",
+        "Que um músculo pode empurrar o osso de volta à posição original."
+	  ],
+	  "correta": 0,
+	  "explicacao": "Músculos exercem força apenas ao se contrair (puxar). Para retornar à posição, dependem da contração de um músculo oposto (antagonista)."
+	},
+	{
+	  "pergunta": "Quando sentimos muito frio, nosso corpo começa a tremer involuntariamente (calafrios). Qual o objetivo biológico dessa reação dos músculos?",
+	  "opcoes": [
+		"Expulsar o sangue frio que está parado nas extremidades dos braços.",
+		"Gerar calor através das contrações musculares rápidas para tentar aquecer o corpo.",
+        "Avisar o cérebro que a pele congelou."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O tremor é um reflexo homeostático: o gasto de energia mecânica nas contrações musculares libera energia térmica, elevando a temperatura corporal."
+	},
+	{
+	  "pergunta": "O miocárdio é o músculo que forma o coração. Qual a propriedade especial desse músculo que o diferencia dos músculos das pernas?",
+	  "opcoes": [
+		"Ele possui contração voluntária e cansa rapidamente após poucos minutos.",
+		"Ele é feito de cartilagem flexível que não precisa de sangue.",
+        "Ele possui contração involuntária, rítmica e contínua, sem sofrer fadiga comum."
+	  ],
+	  "correta": 2,
+	  "explicacao": "O tecido estriado cardíaco une a força da estriação com a autonomia da contração involuntária, adaptado para bombear sangue ininterruptamente."
+	},
+	{
+	  "pergunta": "Uma pessoa que passa muitas semanas com a perna engessada sem se movimentar nota que a musculatura ficou menor. Por que isso acontece?",
+	  "opcoes": [
+		"Devido à atrofia por desuso, já que o músculo precisa de estímulo e carga para manter sua massa.",
+		"Porque o osso absorveu o músculo para se recuperar da fratura.",
+        "Porque o gesso impediu a entrada de oxigênio na pele."
+	  ],
+	  "correta": 0,
+	  "explicacao": "O tecido muscular é altamente adaptável; a falta de contração e alongamento reduz a síntese de proteínas musculares, diminuindo seu volume (atrofia)."
+	}
+  ],
+  "Sistema Sensorial": [
+	{
+	  "pergunta": "Na nossa língua existem pequenas elevações chamadas papilas gustatórias. Qual a função delas na nutrição e segurança do corpo?",
+	  "opcoes": [
+		"Triturar os alimentos duros antes de chegarem ao esôfago.",
+		"Identificar substâncias químicas nos alimentos, ajudando a reconhecer sabores e evitar comidas estragadas.",
+        "Produzir o suco gástrico que vai digerir o açúcar."
+	  ],
+	  "correta": 1,
+	  "explicacao": "As papilas contêm receptores químicos do paladar que detectam sabores básicos, funcionando também como alerta contra toxinas ou alimentos apodrecidos."
+	},
+	{
+	  "pergunta": "A pupila é o círculo preto no centro dos nossos olhos. O que acontece com ela quando saímos de um cinema escuro e entramos em um ambiente muito iluminado?",
+	  "opcoes": [
+		"Ela muda de cor para se adaptar à luz do dia.",
+		"Ela aumenta de tamanho (dilata) para captar mais luz do sol.",
+        "Ela diminui de tamanho (contrai) para controlar e reduzir a entrada excessiva de luz, protegendo a retina."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A pupila regula a entrada de luz através de reflexos musculares da íris: contrai-se (miose) sob forte luz e dilata-se (midríase) no escuro."
+	},
+	{
+	  "pergunta": "A pele é o maior órgão do corpo humano e abriga o sentido do tato. Que tipo de estruturas na pele nos permite diferenciar um carinho de uma picada de agulha?",
+	  "opcoes": [
+		"Diferentes tipos de receptores sensoriais e terminações nervosas especializadas.",
+		"Pequenos ossos microscópicos que vibram com o toque.",
+        "Os poros que se fecham dependendo da força do impacto."
+	  ],
+	  "correta": 0,
+	  "explicacao": "A pele possui mecanorreceptores (tato/pressão), termorreceptores (temperatura) e nociceptores (dor) que enviam dados específicos ao sistema nervoso."
+	},
+	{
+	  "pergunta": "O tímpano é uma membrana fina localizada dentro do conduto auditivo. Qual é o papel dele no processo da audição?",
+	  "opcoes": [
+		"Produzir a cera protetora que impede a entrada de insetos.",
+		"Vibrar com a chegada das ondas sonoras, transmitindo esse movimento para os pequenos ossos internos.",
+        "Limpar o som tirando os ruídos agudos antes que cheguem ao cérebro."
+	  ],
+	  "correta": 1,
+	  "explicacao": "O tímpano converte as ondas de pressão do ar (som) em vibrações mecânicas, que são amplificadas pelos ossículos (martelo, bigorna e estribo)."
+	},
+	{
+	  "pergunta": "Por que quando estamos resfriados, com excesso de muco no nariz, os alimentos parecem perder o sabor e ficam 'sem graça'?",
+	  "opcoes": [
+		"Porque o vírus do resfriado destrói temporariamente as papilas da língua.",
+		"Porque os alimentos perdem as propriedades químicas quando o clima esfria.",
+        "Porque a percepção do sabor depende da ação conjunta do paladar (língua) e do olfato (nariz)."
+	  ],
+	  "correta": 2,
+	  "explicacao": "O sabor é uma experiência combinada. O bloqueio das vias olfatórias impede que os compostos voláteis dos alimentos cheguem ao teto da cavidade nasal."
+	},
+	{
+	  "pergunta": "As informações captadas pelos olhos, ouvidos e pele não viram sensações sozinhas. Quem é o responsável por transformar esses estímulos em imagens, sons e texturas reais?",
+	  "opcoes": [
+		"O encéfalo (cérebro), que processa e interpreta os impulsos elétricos enviados pelos nervos sensoriais.",
+		"O próprio órgão sensorial, que toma as decisões sozinho.",
+        "O sistema circulatório, que desenha as imagens usando o sangue."
+	  ],
+	  "correta": 0,
+	  "explicacao": "Os órgãos dos sentidos são apenas receptores de estímulos físicos/químicos; a interpretação e a percepção consciente ocorrem no córtex cerebral."
+	}
+  ],
+  "Sistema Imunológico": [
+	{
+	  "pergunta": "O sistema imunológico atua como a defesa do organismo. Como os glóbulos brancos agem quando detectam uma bactéria invasora no sangue?",
+	  "opcoes": [
+		"Eles transportam a bactéria para fora através do pulmão na respiração.",
+		"Eles produzem anticorpos específicos ou englobam e destroem o invasor.",
+        "Eles se transformam em glóbulos vermelhos para sufocar a bactéria."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Os leucócitos (glóbulos brancos) defendem o corpo por meio da fagocitose (englobar partículas) e da produção de proteínas de defesa (anticorpos)."
+	},
+	{
+	  "pergunta": "O sistema imunológico atua como a defesa do organismo. Como os glóbulos brancos agem quando detectam uma bactéria invasora no sangue?",
+	  "opcoes": [
+		"Eles transportam a bactéria para fora através do pulmão na respiração.",
+		"Eles produzem anticorpos específicos ou englobam e destroem o invasor.",
+        "Eles se transformam em glóbulos vermelhos para sufocar a bactéria."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Os leucócitos (glóbulos brancos) defendem o corpo por meio da fagocitose (englobar partículas) e da produção de proteínas de defesa (anticorpos)."
+	},
+	{
+	  "pergunta": "A pele íntegra e o muco das vias respiratórias fazem parte da nossa imunidade inata. Qual a importância dessas estruturas?",
+	  "opcoes": [
+		"Substituir os glóbulos brancos quando a pessoa fica mais velha.",
+		"Ajudar os vírus a circularem mais rápido para serem eliminados na urina.",
+        "Atuar como barreiras físicas e químicas que impedem a entrada da maioria dos microrganismos no corpo."
+	  ],
+	  "correta": 2,
+	  "explicacao": "A pele e as mucosas são a primeira linha de defesa do corpo (barreiras naturais), bloqueando fisicamente o acesso de vírus, fungos e bactérias."
+	},
+	{
+	  "pergunta": "Durante uma inflamação (como um corte infeccionado), a região costuma ficar vermelha, quente e inchada. Por que isso acontece?",
+	  "opcoes": [
+		"Porque há um aumento do fluxo de sangue no local para levar mais glóbulos brancos e células de defesa até o ferimento.",
+		"Porque o osso quebrou embaixo do corte devido à presença de germes.",
+        "Porque o sistema imunológico parou de funcionar naquela região do corpo."
+	  ],
+	  "correta": 0,
+	  "explicacao": "A resposta inflamatória causa vasodilatação local, aumentando o fluxo sanguíneo (calor e rubor) e a permeabilidade para a chegada de células imunes (edema)."
+	},
+	{
+	  "pergunta": "Por que os médicos dizem que os antibióticos só devem ser usados com receita e não servem para curar uma gripe comum?",
+	  "opcoes": [
+		"Porque os antibióticos enfraquecem os ossos se forem tomados no inverno.",
+		"Porque os antibióticos combatem apenas bactérias, enquanto a gripe é causada por um vírus.",
+        "Porque a gripe não é uma doença real, apenas um cansaço do corpo."
+	  ],
+	  "correta": 1,
+	  "explicacao": "Antibióticos atuam especificamente sobre estruturas bacterianas. Doenças virais, como gripes e resfriados, não respondem a esses medicamentos."
+	},
+	{
+	  "pergunta": "Os gânglios linfáticos (conhecidos popularmente como 'ínguas') costumam inchar no pescoço quando temos uma infecção na garganta. O que isso indica?",
+	  "opcoes": [
+		"Que a infecção se espalhou pelos ossos da face.",
+		"Que o sistema circulatório parou de enviar sangue para a cabeça.",
+        "Que o sistema imunológico está ativo, multiplicando células de defesa dentro dos gânglios para combater a infecção."
+	  ],
+	  "correta": 2,
+	  "explicacao": "Os linfonodos (gânglios) filtram a linfa. Eles incham durante infecções porque neles ocorre a proliferação ativa de linfócitos para combater os antígenos."
+	}
+  ]
+}

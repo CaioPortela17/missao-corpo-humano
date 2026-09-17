@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6uns8ig6dawn"
+path="res://.godot/imported/coletz de item.mp3-0f4b6af5c0cbb73b8a80ea8c2640c7fa.mp3str"
+
+[deps]
+
+source_file="res://Missao Corpo Humano/Audios/coletz de item.mp3"
+dest_files=["res://.godot/imported/coletz de item.mp3-0f4b6af5c0cbb73b8a80ea8c2640c7fa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

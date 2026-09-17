@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dkvr8ybi04rr4"]
+
+[ext_resource type="Script" uid="uid://y8snnfrbpcdc" path="res://control.gd" id="1_0fbet"]
+
+[node name="VBoxContainer" type="VBoxContainer" unique_id=978565562]
+texture_filter = 1
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_0fbet")
+
+[node name="Button" type="Button" parent="." unique_id=406949563]
+layout_mode = 2
+
+[node name="Button2" type="Button" parent="." unique_id=1108935131]
+layout_mode = 2
+
+[node name="Button3" type="Button" parent="." unique_id=1573561008]
+layout_mode = 2

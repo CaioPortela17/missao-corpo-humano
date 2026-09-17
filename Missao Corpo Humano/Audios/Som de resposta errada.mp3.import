@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cngwp6peyn273"
+path="res://.godot/imported/Som de resposta errada.mp3-cf4f66590dc7fb62c4eb601f8137ab4a.mp3str"
+
+[deps]
+
+source_file="res://Missao Corpo Humano/Audios/Som de resposta errada.mp3"
+dest_files=["res://.godot/imported/Som de resposta errada.mp3-cf4f66590dc7fb62c4eb601f8137ab4a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

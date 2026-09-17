@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dnwkg6okmni76"
+path="res://.godot/imported/vitoria.mp3-38a57f210d134f14db2384fde88938d7.mp3str"
+
+[deps]
+
+source_file="res://Missao Corpo Humano/Audios/vitoria.mp3"
+dest_files=["res://.godot/imported/vitoria.mp3-38a57f210d134f14db2384fde88938d7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

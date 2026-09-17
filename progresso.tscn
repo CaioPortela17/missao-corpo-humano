@@ -1,0 +1,199 @@
+[gd_scene format=3 uid="uid://ex7x8yngrfrh"]
+
+[ext_resource type="FontFile" uid="uid://b7pknf6onov5w" path="res://Caio coisas/KiwiSoda.ttf" id="1_o0att"]
+[ext_resource type="Script" uid="uid://dv8moi4g8kpoj" path="res://progresso.gd" id="1_usvil"]
+[ext_resource type="Texture2D" uid="uid://btdhlmcd051sg" path="res://Caio coisas/ChatGPT_Image_19_de_mai._de_2026__16_38_56-removebg-preview.png" id="2_0dmwg"]
+[ext_resource type="Theme" uid="uid://dbnq8qke5hi4x" path="res://Caio coisas/new_theme.tres" id="4_06r65"]
+[ext_resource type="Texture2D" uid="uid://cd2pyc5ujbr0n" path="res://Caio coisas/ChatGPT Image 27 de mai. de 2026, 19_11_55.png" id="5_gkdye"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0dmwg"]
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+expand_margin_top = 4.0
+expand_margin_right = 4.0
+expand_margin_bottom = 4.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_usvil"]
+bg_color = Color(0.007843138, 0.25882354, 0.2784314, 1)
+corner_radius_top_right = 7
+corner_radius_bottom_right = 7
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_18tut"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(1016, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_v56mh"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_18tut")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bc0tk"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(1016, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_d27xf"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bc0tk")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ntwbs"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(1016, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_1q14i"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ntwbs")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sb6j7"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(0, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_fvcaa"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sb6j7")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0jr5x"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(0, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_5764x"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0jr5x")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_d5ms2"]
+atlas = ExtResource("5_gkdye")
+region = Rect2(0, 0, 468, 965)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_wcej5"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_d5ms2")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="Progresso" type="CanvasLayer" unique_id=1649090467]
+script = ExtResource("1_usvil")
+
+[node name="ProgressBar" type="ProgressBar" parent="." unique_id=1156358040]
+texture_filter = 1
+offset_left = 72.0
+offset_top = 17.0
+offset_right = 305.0
+offset_bottom = 69.0
+theme_override_constants/outline_size = 7
+theme_override_fonts/font = ExtResource("1_o0att")
+theme_override_font_sizes/font_size = 32
+theme_override_styles/background = SubResource("StyleBoxFlat_0dmwg")
+theme_override_styles/fill = SubResource("StyleBoxFlat_usvil")
+max_value = 6.0
+value = 6.0
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=27117799]
+texture_filter = 1
+position = Vector2(54.938194, 49.625)
+scale = Vector2(0.2722472, 0.2855)
+texture = ExtResource("2_0dmwg")
+
+[node name="TimerLabel" type="Label" parent="." unique_id=1064443345]
+texture_filter = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -104.0
+offset_top = 9.0
+offset_right = -66.0
+offset_bottom = 41.0
+grow_horizontal = 0
+scale = Vector2(1.9, 1.9)
+theme = ExtResource("4_06r65")
+theme_override_constants/outline_size = 7
+theme_override_fonts/font = ExtResource("1_o0att")
+theme_override_font_sizes/font_size = 32
+text = "120"
+
+[node name="Label" type="Label" parent="." unique_id=1684396633]
+texture_filter = 1
+offset_left = 852.0
+offset_top = 4.0
+offset_right = 934.0
+offset_bottom = 36.0
+scale = Vector2(2, 2)
+theme_override_constants/outline_size = 7
+theme_override_fonts/font = ExtResource("1_o0att")
+theme_override_font_sizes/font_size = 32
+text = "Timer:"
+
+[node name="Sprite2D2" type="Sprite2D" parent="." unique_id=111612991]
+
+[node name="morte1" type="AnimatedSprite2D" parent="." unique_id=184579973]
+visible = false
+position = Vector2(512, 32)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_v56mh")
+
+[node name="morte2" type="AnimatedSprite2D" parent="." unique_id=673016104]
+visible = false
+position = Vector2(612, 32)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_d27xf")
+
+[node name="morte3" type="AnimatedSprite2D" parent="." unique_id=464460475]
+visible = false
+position = Vector2(712, 32)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_1q14i")
+
+[node name="coração3" type="AnimatedSprite2D" parent="." unique_id=406610295]
+position = Vector2(639, 32)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_fvcaa")
+
+[node name="coração1" type="AnimatedSprite2D" parent="." unique_id=332872941]
+position = Vector2(439, 32)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_5764x")
+
+[node name="coração2" type="AnimatedSprite2D" parent="." unique_id=789493319]
+position = Vector2(539, 32.000008)
+scale = Vector2(0.4, 0.4)
+sprite_frames = SubResource("SpriteFrames_wcej5")

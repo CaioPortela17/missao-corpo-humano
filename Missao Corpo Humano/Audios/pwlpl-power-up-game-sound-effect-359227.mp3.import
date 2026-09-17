@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dotmyog0byg2e"
+path="res://.godot/imported/pwlpl-power-up-game-sound-effect-359227.mp3-440f396bf65bf5154eb566bed8a406b0.mp3str"
+
+[deps]
+
+source_file="res://Missao Corpo Humano/Audios/pwlpl-power-up-game-sound-effect-359227.mp3"
+dest_files=["res://.godot/imported/pwlpl-power-up-game-sound-effect-359227.mp3-440f396bf65bf5154eb566bed8a406b0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

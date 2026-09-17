@@ -102,7 +102,7 @@ missao-corpo-humano/
 3. Abra o Godot, clique em **Importar**, e selecione a pasta **`MissaoCorpoHumano`** (é ela que contém o `project.godot`).
 4. Pressione **F5** (ou o botão de play) para rodar o jogo.
 
-## ✍️ Autor
+## ✍️ Desenvolvedor
 
 Desenvolvido por **Caio Portela** ([GitHub](https://github.com/CaioPortela17)) como trabalho acadêmico da disciplina T166 (UNIFOR).
 
@@ -199,6 +199,6 @@ missao-corpo-humano/
 3. Open Godot, click **Import**, and select the **`MissaoCorpoHumano`** folder (it's the one containing `project.godot`).
 4. Press **F5** (or the play button) to run the game.
 
-## ✍️ Author
+## ✍️ Developer
 
 Developed by **Caio Portela** ([GitHub](https://github.com/CaioPortela17)) as academic coursework for the T166 class (UNIFOR).
